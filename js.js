@@ -275,7 +275,7 @@ animate();
 
 
 
-const starCount = 100; // Number of stars
+const starCount = 35; // Number of stars
 const starsContainer = document.querySelector('.stars');
 
 for (let i = 0; i < starCount; i++) {
