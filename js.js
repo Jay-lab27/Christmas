@@ -15,7 +15,7 @@ function displayText() {
 }
 
 // Update text every 500ms (half a second)
-setInterval(displayText, 500);
+setInterval(displayText, 4500);
 
 
 
